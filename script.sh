@@ -17,7 +17,7 @@ username="popo909"
 password="popo909"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="300"
+sshlimiter="1000"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ပုံသေထားရပါသည်)
 dias="2"
@@ -27,14 +27,15 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿LKKT✿▬▬▬▬▬▬▬▬
+servermessage="<h3><font color='blue'>
+LKKT GCP VIP Welcome
 </font></h3>
-<h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
+<h4><font color='green'>
+↤↤↤↤↤ Premium VIP Sever ↦↦↦↦↦
 </font></h4>
-<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿LKKT✿▬▬▬▬▬▬▬▬
+<h3><font color='yellow'>
+LKKT VPN+ Gcp Outline Key
+Price = 5000(1 Month)
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
@@ -64,7 +65,7 @@ echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$password"
 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$sshlimiter"
 echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m$gui"
 echo ""
-echo -e "\033[1;37m◈────⪧ ✿ ✿ 4▪0▪4 ✿ ✿ ⪦────◈"
+echo -e "\033[1;37m◈────⪧ LKKT VIP GROUP ⪦────◈"
 echo ""
 echo "------------------------------------"
 printf "Developed the script by \n"
@@ -72,14 +73,14 @@ echo "------------------------------------"
 echo ""
 
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
-echo -e "${cyan} ___   ___          ________          ___   ___                               ${plain}"
-echo -e "${cyan}|\  \ |\  \        |\   __  \        |\  \ |\  \                              ${plain}"
-echo -e "${cyan}\ \  \|_\  \       \ \  \|\  \       \ \  \|_\  \                             ${plain}"
-echo -e "${cyan} \ \______  \       \ \  \/\  \       \ \______  \                            ${plain}"
-echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \                           ${plain}"
-echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
-echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
-echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
+echo -e "${cyan} LKKT  ${plain}"
+echo -e "${cyan} GCP   ${plain}"
+echo -e "${cyan} VIP     ${plain}"
+echo -e "${cyan} VPN     ${plain}"
+echo -e "${cyan} Group   ${plain}"
+echo -e "${cyan} 👏👏👏       ${plain}"
+echo -e "${cyan}  All User Thanks ${plain}"
+echo -e "${green}  Lin Ko Ko Tun    ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am 404 😎 ${plain}"
+echo -e "${cyan}Thanks All User  ${plain}"
