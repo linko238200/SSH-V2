@@ -27,15 +27,17 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='blue'>
-LKKT GCP VIP Welcome
+servermessage="<h3><font color='green'>
+   ꧁𓊈𒆜𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙇𝙆𝙆𝙏 𝙂𝘾𝙋 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𒆜𓊉꧂
+
+     ꧁ 𒈞αℓℓ υѕєя тнαηкѕ𒈞꧂
 </font></h3>
-<h4><font color='green'>
-↤↤↤↤↤ Premium VIP Sever ↦↦↦↦↦
+<h4><font color='cyan'>
+𝔾ℂℙ 𝕆𝕦𝕥𝕝𝕚𝕟𝕖 𝕂𝕖𝕪 & 𝔽𝕚𝕝𝕖 𝔽𝕣𝕖𝕖 ℂ𝕙𝕒𝕟𝕟𝕖𝕝
 </font></h4>
 <h3><font color='yellow'>
-LKKT VPN+ Gcp Outline Key
-Price = 5000(1 Month)
+𝐋𝐊𝐊𝐓 𝐕𝐈𝐏 𝐕𝐏𝐍 + 𝐎𝐮𝐭𝐥𝐢𝐧𝐞 𝐊𝐞𝐲 
+💫 🅿🆁🅸🅲🅴 = 5000 ( 1 🅼🅾🅽🆃🅷) 💫
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
